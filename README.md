@@ -1,4 +1,0 @@
-Kandidatarbete
-==============
-
-Android applikation
